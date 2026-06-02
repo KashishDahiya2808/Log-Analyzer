@@ -17,7 +17,7 @@ A Python-based Log Analyzer that helps detect suspicious activities from log fil
 
 ```bash
 python analyzer.py
-
+```
 
 ## Sample Output
 
